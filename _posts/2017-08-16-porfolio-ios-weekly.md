@@ -1,14 +1,18 @@
 ---
 layout: post
-title: Proyecto iOS - Ahorro52semanas
+title: Proyecto iOS - Ahorro 52 semanas
 ---
-M&oacute;dulo Drupal 7, para Integrar la pasarela de pagos PayuLatam con el drupal commerce [https://www.drupal.org/project/commerce_payulatam](https://www.drupal.org/project/commerce_payulatam)
+Es un reto o desaf&iacute;o muy simple. Consiste en poner dinero durante 52 semanas en una lata, jarro o alguna caja que podamos utilizar.
 
-![Home]({{ site.baseurl }}/images/porfolio/commerce/commerce1.png)
+El reto consiste en poner, cada semana, la cantidad de dinero equivalente al n&uacute;mero de semana que nos toca. De este modo, en la semana 1 depositaremos 1 (peso/d&oacute;lar), la semana 23 vamos a depositar 23 (pesos/d&oacute;lares) y as&iacute; hasta llegar a la semana n&uacute;mero 52, la &uacute;ltima que pondremos 52 (pesos/d&oacute;lares) (el reto original viene de USA, de hecho, tiene hasta p&aacute;gina oficial [http://www.52weekmoneychallenge.net](http://www.52weekmoneychallenge.net)
+
+Fuente: [http://cosasdedinero.com/2015/03/17/destripamos-el-reto-del-ahorro-en-52-semanas](http://cosasdedinero.com/2015/03/17/destripamos-el-reto-del-ahorro-en-52-semanas)
+![Home]({{ site.baseurl }}/images/porfolio/ios/ios1.png)
 
 ### Tecnolog&iacute;a Utilizada:
- - PHP (Drupal 7)
+ - iOS (Swift)
+ - CoreData
  - Bickbucket
 
 ### Actividades Realizadas:
- - Diseño e Implementaci&oacute;n del m&oacute;dulo con drupal commerce
+ - Diseño y Desarrollo
