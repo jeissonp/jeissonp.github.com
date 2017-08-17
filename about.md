@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Soy desarrollador web, Profesionalmente, trabajo como desarrollador python(django), iOS(swift), PHP (drupal 7).
+Soy desarrollador web y m&oacute;vil, Profesionalmente trabajo como desarrollador python(django), iOS(swift), PHP (drupal 7).
 
 
 ## Educaci&oacute;n:
@@ -23,7 +23,6 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
 - Configuración de servidores unix
 - Integración plataformas de pago (PayuLatam)
 
-
 ### Contribuciones:
 - [https://github.com/jeissonp](https://github.com/jeissonp)
 - [https://www.drupal.org/project/commerce_payulatam](https://www.drupal.org/project/commerce_payulatam)
@@ -34,14 +33,14 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
     - Liderar el equipo de desarrollo web
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
 
-- ICCK NET Bogot&aacute; D.C Developer Marzo 2012 - Septiembre 2012
+ - ICCK NET Bogot&aacute; D.C Developer Marzo 2012 - Septiembre 2012
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
 
-- SeeD EM Bogot&aacute; Web Development Septiembre 2011 - Febrero 2012
+ - SeeD EM Bogot&aacute; Web Development Septiembre 2011 - Febrero 2012
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
 
 ### Proyectos Realizados / Participado
-    [Porfolio](/categories)
+[Porfolio](/categories)
 
 ### Contact me
 
