@@ -9,6 +9,16 @@ El reto consiste en poner, cada semana, la cantidad de dinero equivalente al n&u
 Fuente: [http://cosasdedinero.com/2015/03/17/destripamos-el-reto-del-ahorro-en-52-semanas](http://cosasdedinero.com/2015/03/17/destripamos-el-reto-del-ahorro-en-52-semanas)
 ![Home]({{ site.baseurl }}/images/porfolio/ios/ios1.png)
 
+### Home
+![Home]({{ site.baseurl }}/images/porfolio/ios/ios2.png)
+
+### Configuraci&oacute;n
+![Configuration]({{ site.baseurl }}/images/porfolio/ios/ios3.png)
+
+### Resumen
+![Summary]({{ site.baseurl }}/images/porfolio/ios/ios4.png)
+
+
 ### Tecnolog&iacute;a Utilizada:
  - iOS (Swift)
  - CoreData
