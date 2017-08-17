@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Proyecto Web - gurudeinmuebles.com
+categories: [Porfolio]
+tags: [drupal, php]
 ---
 
 Portal Inmobiliario, administraci&oacute;n de inmuebles, clientes, sincronizaci&oacute;n con finca raiz

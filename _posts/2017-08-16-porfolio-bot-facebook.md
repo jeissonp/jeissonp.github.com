@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Proyecto Bot - Facebook @Notyapp
+categories: [Porfolio]
+tags: [bot, python, messenger]
 ---
 
 Integrar noty.com.co con Messenger de Facebook, este permite hacer busquedas directamente desde el messenger.

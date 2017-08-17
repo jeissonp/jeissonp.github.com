@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Proyecto Web - Commerce PayuLatam
+categories: [Porfolio]
+tags: [php, drupal]
 ---
 
 M&oacute;dulo Drupal 7, para Integrar la pasarela de pagos PayuLatam con el drupal commerce [https://www.drupal.org/project/commerce_payulatam](https://www.drupal.org/project/commerce_payulatam)

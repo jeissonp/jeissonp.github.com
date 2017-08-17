@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Proyecto iOS - Ahorro 52 semanas
+categories: [Porfolio]
+tags: [ios]
 ---
 Es un reto o desaf&iacute;o muy simple. Consiste en poner dinero durante 52 semanas en una lata, jarro o alguna caja que podamos utilizar.
 

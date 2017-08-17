@@ -25,8 +25,8 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
 
 
 ### Contribuciones:
-- (https://github.com/jeissonp)
-- (https://www.drupal.org/project/commerce_payulatam)
+- [https://github.com/jeissonp](https://github.com/jeissonp)
+- [https://www.drupal.org/project/commerce_payulatam](https://www.drupal.org/project/commerce_payulatam)
 
 ### Experiencia
  - WISEWARE SAS Popayan Cauca Developer Enero 2013
@@ -41,6 +41,7 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
 
 ### Proyectos Realizados / Participado
+    [Porfolio](/categories)
 
 ### Contact me
 

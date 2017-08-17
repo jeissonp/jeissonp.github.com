@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Proyecto Web - noty.com.co
+categories: [Porfolio]
+tags: [python, gae]
 ---
 
 Buscador de licitaciones y empleo p&uacute;blico en Colombia, Secop I y Secop II
