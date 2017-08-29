@@ -29,7 +29,7 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
 
 ### Experiencia
  - WISEWARE SAS Popayan Cauca Developer Enero 2013
-    - Dirigir el proyecto de Convocatoria Colciencias
+    - Dirigir el proyecto de Convocatoria Colciencias - [Convocatoria 724 de 2015](https://apps.co/inscripciones/convocatoria/ayudapps-2015/)
     - Liderar el equipo de desarrollo web
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
 
