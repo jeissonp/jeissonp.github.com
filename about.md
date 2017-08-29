@@ -43,5 +43,7 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
 [Porfolio](/categories)
 
 ### Contact me
-
 [jeissonp@gmail.com](mailto:jeissonp@gmail.com)
+
+### Resumen
+[Resumen](/HV_JEISSON_PEREZ_MOLANO_DRUPAL_PYTHON.pdf)
