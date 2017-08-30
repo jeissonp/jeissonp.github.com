@@ -47,3 +47,6 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
 
 ### Resumen
 [Resumen](/HV_JEISSON_PEREZ_MOLANO_DRUPAL_PYTHON.pdf)
+
+### Paypal
+[Paypal](https://www.paypal.me/jeissonpm)
