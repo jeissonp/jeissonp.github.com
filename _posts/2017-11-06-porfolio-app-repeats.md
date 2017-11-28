@@ -7,6 +7,10 @@ tags: [app, ios]
 
 App iOS - Repeats
 
+### AppStore
+![App Store]({{ site.baseurl }}/images/porfolio/repeats/app-repeats.png)
+[App Store](https://itunes.apple.com/us/app/repeats/id1308647237?ls=1&mt=8)
+
 ### Storyboard
 ![Storyboard]({{ site.baseurl }}/images/porfolio/repeats/2.png)
 
