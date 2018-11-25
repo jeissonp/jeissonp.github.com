@@ -28,6 +28,19 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
 - [https://www.drupal.org/project/commerce_payulatam](https://www.drupal.org/project/commerce_payulatam)
 
 ### Experiencia
+
+ - SEREMPRE SAS Bogotá Developer Septiembre 2017:
+    - Desarrollar nuevas funcionalidades para los portales de AB InBev (Colombia, Ecuador, Peru)
+    - https://cervezaaguila.com
+    - https://www.pilsencallao.com.pe
+    - https://cervezapoker.com (Commerce)
+    - https://bavaria.co/
+    - Deploy de sitios Acquia Cloud y Site Factory
+    - Lambda AWS (python, mysql)
+    - Script Python (Generación de códigos, Django)
+    - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
+    
+    
  - WISEWARE SAS Popayan Cauca Developer Enero 2013
     - Dirigir el proyecto de Convocatoria Colciencias - [Convocatoria 724 de 2015](https://apps.co/inscripciones/convocatoria/ayudapps-2015/)
     - Liderar el equipo de desarrollo web
