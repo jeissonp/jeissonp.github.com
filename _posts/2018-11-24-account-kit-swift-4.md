@@ -24,7 +24,10 @@ Integración Facebook Account Kit (Swift 4)
 
 
 ### Deseas obtener una copía y la guia de implementación por 10USD
- 
+
+Código fuente y manual de configuración para ser utilizada en cualquier proyecto swift 4.
+
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <!-- Identify your business so that you can collect the payments. -->
   <input type="hidden" name="business" value="jeisson@gmail.com">
