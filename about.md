@@ -29,7 +29,7 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
 
 ### Experiencia
 
- - SEREMPRE SAS Bogotá Developer Septiembre 2017:
+ - **SEREMPRE SAS** Bogot&aacute; Developer Septiembre 2017:
     - Desarrollar nuevas funcionalidades para los portales de AB InBev (Colombia, Ecuador, Peru)
     - https://cervezaaguila.com
     - https://www.pilsencallao.com.pe
@@ -41,15 +41,15 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
     
     
- - WISEWARE SAS Popayan Cauca Developer Enero 2013
+ - **WISEWARE SAS** Popayan Cauca Developer Enero 2013
     - Dirigir el proyecto de Convocatoria Colciencias - [Convocatoria 724 de 2015](https://apps.co/inscripciones/convocatoria/ayudapps-2015/)
     - Liderar el equipo de desarrollo web
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
 
- - ICCK NET Bogot&aacute; D.C Developer Marzo 2012 - Septiembre 2012
+ - **ICCK NET** Bogot&aacute; D.C Developer Marzo 2012 - Septiembre 2012
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
 
- - SeeD EM Bogot&aacute; Web Development Septiembre 2011 - Febrero 2012
+ - **SeeD EM** Bogot&aacute; Web Development Septiembre 2011 - Febrero 2012
     - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
 
 ### Proyectos Realizados / Participado
