@@ -42,7 +42,7 @@ Código fuente del proyecto swift 4.
   <input type="hidden" name="cmd" value="_xclick">
 
   <!-- Specify details about the item that buyers will purchase. -->
-  <input type="hidden" name="item_name" value="Plantilla Integración Account Kit">
+  <input type="hidden" name="item_name" value="Código Fuente">
   <input type="hidden" name="amount" value="100">
   <input type="hidden" name="currency_code" value="USD">
 

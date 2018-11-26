@@ -1,32 +1,34 @@
 ---
 layout: post
-title: App Repeats
+title: Integración Firebase: Autenticación y Base de Datos  (Swift 4)
 categories: [Porfolio]
-tags: [app, ios]
+tags: [app, ios, swift, firebase]
 ---
 
-App iOS - Repeats
-
-### AppStore
-![App Store]({{ site.baseurl }}/images/porfolio/repeats/app-repeats.png)
-[App Store](https://itunes.apple.com/us/app/repeats/id1308647237?ls=1&mt=8)
+Integración Facebook Account Kit (Swift 4)
 
 ### Storyboard
-![Storyboard]({{ site.baseurl }}/images/porfolio/repeats/2.png)
+![Storyboard]({{ site.baseurl }}/images/porfolio/firebase/1.png)
 
-### Simulator (iPhone x, iPhone 8 Plus, iPhone 7)
-![Simulator]({{ site.baseurl }}/images/porfolio/repeats/1.png)
+### Simulator (iPhone XR)
+![Simulator]({{ site.baseurl }}/images/porfolio/firebase/2.png)
+![Simulator]({{ site.baseurl }}/images/porfolio/firebase/3.png)
+![Simulator]({{ site.baseurl }}/images/porfolio/firebase/4.png)
+![Simulator]({{ site.baseurl }}/images/porfolio/firebase/5.png)
+![Simulator]({{ site.baseurl }}/images/porfolio/firebase/6.png)
+![Simulator]({{ site.baseurl }}/images/porfolio/firebase/7.png)
 
 ### Tecnolog&iacute;a Utilizada
  - [Swift 4.0](https://swift.org)
  - [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
- - [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider)
+ - [Firebase](https://firebase.google.com/docs/) 
  - [CocoaPods](https://cocoapods.org)
  - [Github](https://github.com)
 
-### Deseas obtener una del código fuente por 100USD
 
-Código fuente del proyecto swift 4.
+### Deseas obtener una copía y la guia de implementación por 10USD
+
+Código fuente y manual de configuración para ser utilizada en cualquier proyecto swift 4.
 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -37,8 +39,8 @@ Código fuente del proyecto swift 4.
   <input type="hidden" name="cmd" value="_xclick">
 
   <!-- Specify details about the item that buyers will purchase. -->
-  <input type="hidden" name="item_name" value="Código Fuente">
-  <input type="hidden" name="amount" value="100">
+  <input type="hidden" name="item_name" value="Plantilla Integración Firebase">
+  <input type="hidden" name="amount" value="10">
   <input type="hidden" name="currency_code" value="USD">
 
   <!-- Display the payment button. -->
