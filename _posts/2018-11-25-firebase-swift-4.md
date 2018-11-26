@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integración Firebase: Autenticación y Base de Datos  (Swift 4)
+title: Integración Firebase - Autenticación y Base de Datos  (Swift 4)
 categories: [Porfolio]
 tags: [app, ios, swift, firebase]
 ---
@@ -17,6 +17,8 @@ Integración Firebase: Autenticación y Base de Datos  (Swift 4)
 ![Simulator]({{ site.baseurl }}/images/porfolio/firebase/5.png)
 ![Simulator]({{ site.baseurl }}/images/porfolio/firebase/6.png)
 ![Simulator]({{ site.baseurl }}/images/porfolio/firebase/7.png)
+![Firebase]({{ site.baseurl }}/images/porfolio/firebase/8.png)
+![Firebase]({{ site.baseurl }}/images/porfolio/firebase/9.png)
 
 ### Tecnolog&iacute;a Utilizada
  - [Swift 4.0](https://swift.org)
