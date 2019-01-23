@@ -30,7 +30,7 @@ Integración Firebase: Autenticación y Base de Datos  (Swift 4)
 
 ### Repositorio Github:
 
-- [https://github.com/jeissonp/Demo-Firebase](https://github.com/jeissonp/Demo-Firebase)
+- [https://github.com/jeissonp/DemoFirebasePublic](https://github.com/jeissonp/DemoFirebasePublic)
 
 
 ### Donar 10 USD Paypal
