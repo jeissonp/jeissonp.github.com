@@ -30,4 +30,4 @@ Integración Facebook Account Kit (Swift 4)
 
 ### Donar por Paypal
 
-[https://www.paypal.me/jeissonpm]({{ site.baseurl }}/images/donate.gif)
+[![Donate]({{ site.baseurl }}/images/donate.gif)](https://www.paypal.me/jeissonpm)
