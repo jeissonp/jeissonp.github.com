@@ -23,7 +23,12 @@ Integración Facebook Account Kit (Swift 4)
  - [Github](https://github.com)
 
 
-### Deseas obtener una copía y la guia de implementación por 10USD
+### Repositorio Github:
+
+- [https://github.com/jeissonp/DemoAccountKit](https://github.com/jeissonp/DemoAccountKit)
+
+
+### Donar 10 USD Paypal
 
 Código fuente y manual de configuración para ser utilizada en cualquier proyecto swift 4.
 
