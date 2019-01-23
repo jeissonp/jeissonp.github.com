@@ -36,4 +36,4 @@ Integración Firebase: Autenticación y Base de Datos  (Swift 4)
 
 ### Donar por Paypal
 
-![https://www.paypal.me/jeissonpm]({{ site.baseurl }}/images/donate.gif)
+[https://www.paypal.me/jeissonpm]({{ site.baseurl }}/images/donate.gif)
