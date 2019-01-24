@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 Soy desarrollador web y m&oacute;vil, Profesionalmente trabajo como desarrollador python(django), iOS(swift), PHP (drupal 7).
 
