@@ -8,12 +8,12 @@ Soy desarrollador web y m&oacute;vil, Profesionalmente trabajo como desarrollado
 ## Educaci&oacute;n:
 
 Ingeniero de Sistemas (2007), especialista en desarrollo de Base de Datos(2012).
-Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
+Con experiencia en desarrollo web y m&oacute;vil:
 
 ### Skills:
 
 - Python (Django, webapp2, flask)
-- PHP (Drupal 7)
+- PHP (Drupal 7, 8)
 - Swift (iOs, Firebase, Google maps, cocoapods)
 - Javascript (jQuery)
 - CSS
@@ -37,7 +37,7 @@ Con experiencia de 10 a&ntilde;os en desarrollo web y m&oacute;vil:
     - Deploy de sitios Acquia Cloud y Site Factory
     - Lambda AWS (python, mysql)
     - Script Python (Generación de códigos, Django)
-    - Escribir M&oacute;dulos de Drupal usando PHP con MySQL
+    - Escribir M&oacute;dulos de Drupal (7,8) usando PHP con MySQL
     
     
  - **WISEWARE SAS** Popayan Cauca Developer Enero 2013
