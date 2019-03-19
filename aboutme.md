@@ -56,7 +56,6 @@ Con experiencia en desarrollo web y m&oacute;vil:
 
 ### Contact me
 - [jeissonp@gmail.com](mailto:jeissonp@gmail.com)
-- [WhatsApp](https://wa.me/573118749273)
 - [Telegram: jeissonp](https://t.me/jeissonp)
 
 ### Resumen
