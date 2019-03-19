@@ -55,9 +55,9 @@ Con experiencia en desarrollo web y m&oacute;vil:
 [Porfolio](/categories)
 
 ### Contact me
-[jeissonp@gmail.com](mailto:jeissonp@gmail.com)
-[WhatsApp](https://wa.me/573118749273)
-[Telegram: jeissonp](https://t.me/jeissonp)
+- [jeissonp@gmail.com](mailto:jeissonp@gmail.com)
+- [WhatsApp](https://wa.me/573118749273)
+- [Telegram: jeissonp](https://t.me/jeissonp)
 
 ### Resumen
 [Resumen](/HV_JEISSON_PEREZ_MOLANO_DRUPAL_PYTHON.pdf)
