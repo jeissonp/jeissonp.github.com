@@ -5,7 +5,7 @@ categories: [Porfolio]
 tags: [app, ios, swift, cocoapods]
 ---
 
-Abrir Chat WhatsApp: Permite iniciar una conversación con cualquier número. Sin necesidad de tener guardado en la agenda de contactos (Swift 5)
+App openWhatsApp: Permite iniciar una conversación con cualquier número. Sin necesidad de tener guardado en la agenda de contactos (Swift 5)
 
 ### Storyboard
 ![Storyboard]({{ site.baseurl }}/images/porfolio/whatsapp/1.png)
