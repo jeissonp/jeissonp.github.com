@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abrir Chat WhatsApp  (Swift 5)
+title: App openWhatsApp  (Swift 5)
 categories: [Porfolio]
 tags: [app, ios, swift, cocoapods]
 ---
