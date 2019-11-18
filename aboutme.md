@@ -7,7 +7,7 @@ Soy desarrollador web y m&oacute;vil, Profesionalmente trabajo como desarrollado
 
 ## Educaci&oacute;n:
 
-Ingeniero de Sistemas (2007), especialista en desarrollo de Base de Datos(2012).
+Ingeniero de Sistemas, especialista en desarrollo de Base de Datos.
 Con experiencia en desarrollo web y m&oacute;vil:
 
 ### Skills:
