@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modulo Drupal Statistics by content type
+title: Módulo Drupal "Statistics by content type"
 categories: [Porfolio]
 tags: [drupal, php]
 ---
