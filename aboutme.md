@@ -13,7 +13,7 @@ Con experiencia en desarrollo web y m&oacute;vil:
 ### Skills:
 
 - Python (Django, webapp2, flask)
-- PHP (Laravel, Drupal 7, 8)
+- PHP (Laravel, Drupal 7, 8, 9, 10)
 - Swift (iOs, Firebase, Google maps, cocoapods)
 - Javascript (jQuery)
 - Google App Engine (Deploy)
