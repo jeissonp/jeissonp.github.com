@@ -1,8 +1,8 @@
 ---
 layout: post
-title: App openWhatsApp  (Swift 5)
+title: Modulo Drupal Statistics by content type
 categories: [Porfolio]
-tags: [app, ios, swift, cocoapods]
+tags: [drupal, php]
 ---
 
 ### Statistics by content type
