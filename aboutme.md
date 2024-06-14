@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Soy desarrollador web y m&oacute;vil, Profesionalmente trabajo como desarrollador python(django), iOS(swift), PHP (Laravel, drupal 7, 8).
+Soy desarrollador web y m&oacute;vil, Profesionalmente trabajo como desarrollador backend en python(django, flask), iOS(swift), PHP (Laravel, drupal 7, 8, 9, 10).
 
 
 ## Educaci&oacute;n:
