@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Módulo Drupal "Statistics by content type"
-categories: [Porfolio]
+title: Implementando arquitectura limpia en Django
+categories: [Content]
 tags: [django, python]
 ---
 
@@ -79,7 +79,82 @@ class GetProductListQuery:
     def execute(self):
         return self.product_repository.get_all()
 ```
+#### interfaces/
 
+Esta capa contiene los adaptadores para interactuar con otros sistemas, como bases de datos o servicios externos. Aquí es donde se implementa el Repository Pattern, asegurando que el acceso a datos esté desacoplado del dominio.
+
+Ejemplo de un repositorio en repository.py:
+
+```python3
+class ProductRepository:
+    def get_all(self):
+        return ProductModel.objects.all()
+
+    def save(self, product):
+        product_model = ProductModel(name=product.name, price=product.price)
+        product_model.save()
+```
+
+#### infrastructure/
+
+En esta carpeta se incluyen los componentes dependientes de Django, como los modelos, serializadores para la API REST, vistas (controladores) y los mapeos de URLs.
+
+Ejemplo de vista para un comando (crear producto):
+
+```python3
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from ..use_cases.commands.create_product import CreateProductCommand
+from ..interfaces.repository import ProductRepository
+
+class CreateProductView(APIView):
+    def post(self, request):
+        name = request.data.get('name')
+        price = request.data.get('price')
+
+        product_repository = ProductRepository()
+        command = CreateProductCommand(product_repository)
+        command.execute(name, price)
+        
+        return Response({"message": "Producto creado"}, status=201)
+```
+
+#### factories/
+
+Aquí es donde se ubican las fábricas que gestionan la creación de objetos complejos o dependientes de diferentes configuraciones. Esto permite desacoplar la lógica de creación de objetos de la lógica de negocio.
+
+Ejemplo de una fábrica de notificaciones:
+
+```python3
+class NotificationFactory:
+    @staticmethod
+    def create_notification(type, recipient, message):
+        if type == 'email':
+            return EmailNotification(recipient, message)
+        elif type == 'sms':
+            return SMSNotification(recipient, message)
+        else:
+            raise ValueError(f"Unsupported notification type: {type}")
+```
+
+### 3. Implementación de Patrones Clave
+
+    1.	CQRS: Separación de comandos y consultas en la carpeta use_cases. Los commands son responsables de modificar el estado y los queries solo de la lectura.
+    2.	Event-Driven Architecture (EDA): Puedes manejar eventos de dominio dentro de la carpeta domain/events.py, y con señales de Django o herramientas como Celery, gestionar las reacciones a esos eventos.
+    3.	Saga Pattern: La lógica de transacciones distribuidas, como la gestión de pedidos que dependen de múltiples servicios (pago, envío), se maneja en use_cases/sagas/.
+    4.	Repository Pattern: Los repositorios en la carpeta interfaces/ desacoplan el acceso a datos de los casos de uso.
+    5.	Factory Pattern: Las fábricas en factories/ crean objetos complejos o configurables según los requisitos del negocio.
+
+Conclusión
+
+La estructura resultante tiene las siguientes características clave:
+
+	•	Modularidad: Cada app es independiente y sigue principios de separación de responsabilidades.
+	•	Desacoplamiento: La lógica de negocio está completamente separada de la infraestructura de Django. Los casos de uso y los repositorios permiten aislar las dependencias.
+	•	Escalabilidad: La aplicación puede crecer fácilmente al añadir nuevas apps o funcionalidades siguiendo este patrón estructurado.
+	•	Patrones flexibles: Puedes combinar patrones como CQRS, EDA, Saga, Repositorios, y Fábricas, lo que hace que tu código sea más robusto y mantenible.
+
+Este enfoque es ideal para proyectos grandes o que van a escalar, permitiéndote tener control sobre cada capa de la aplicación y facilitar su crecimiento o mantenimiento. ¿Te gustaría profundizar en alguno de estos aspectos o ver algún ejemplo más detallado?
 
 ### Tecnolog&iacute;a Utilizada
  - [Django](https://www.djangoproject.com/)
