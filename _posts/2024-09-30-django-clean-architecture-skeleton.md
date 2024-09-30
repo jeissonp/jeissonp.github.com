@@ -154,7 +154,7 @@ La estructura resultante tiene las siguientes características clave:
 	•	Escalabilidad: La aplicación puede crecer fácilmente al añadir nuevas apps o funcionalidades siguiendo este patrón estructurado.
 	•	Patrones flexibles: Puedes combinar patrones como CQRS, EDA, Saga, Repositorios, y Fábricas, lo que hace que tu código sea más robusto y mantenible.
 
-Este enfoque es ideal para proyectos grandes o que van a escalar, permitiéndote tener control sobre cada capa de la aplicación y facilitar su crecimiento o mantenimiento. ¿Te gustaría profundizar en alguno de estos aspectos o ver algún ejemplo más detallado?
+Este enfoque es ideal para proyectos grandes o que van a escalar, permitiéndote tener control sobre cada capa de la aplicación y facilitar su crecimiento o mantenimiento.
 
 ### Tecnolog&iacute;a Utilizada
  - [Django](https://www.djangoproject.com/)
