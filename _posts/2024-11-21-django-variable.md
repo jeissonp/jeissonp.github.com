@@ -7,8 +7,8 @@ tags: [django, python]
 
 ### APP Django Variable
 
-django_variable es una liberia para definir configuraciones dinamicamente y administrar desde el panel de administrador.
-
+django_variable es una app de django para definir configuraciones dinámicamente y 
+administrables desde el panel de administrador.
 
 
 ### Como trabaja
@@ -17,7 +17,8 @@ Establezca los valores de configuración mediante admin (admin/variable_config/c
 
 
 
-### Compatibility
+### Requerimientos
+
 Python +3.8
 Django >= 5
 
@@ -27,7 +28,7 @@ Django >= 5
 pip install django-variable
 
 
-#### Configuración:
+### Configuración:
 
 ```python3
 # settings.py
@@ -39,14 +40,14 @@ INSTALLED_APPS = [
 ]
 ```
 
-#### Despues de configurar:
+### Después de configurar:
 
 ```python3
 python manage.py migrate
 
 ```
 
-#### Como funciona.
+### Como funciona.
 
 ```python3
 
@@ -55,6 +56,10 @@ from django_variable.utils import get_config
 get_config('KEY_CONFIG', 'DEFAULT_VALUE')
 
 ```
+
+
+### Repositorio.
+[https://github.com/jeissonp/django-variable](https://github.com/jeissonp/django-variable)
 
 
 ### Tecnolog&iacute;a Utilizada
